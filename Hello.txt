@@ -7,4 +7,12 @@ This is just introduction.
 
 There is much more to see!
 
+for example -
+repository
+commit
+see commit
+and much more
+
 Thank You.
+
+Done with changes.
